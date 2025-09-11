@@ -5,13 +5,27 @@ public class Program
 
     public static void Main(String[] args)
     {
-        int num;
-        num = Numero.getNumero();
-        Console.WriteLine($"Los mutiplos de {num} son:");
+        int num, t;
+        num = Numero.getNumero("Ingrese un numero: ");
+        t = Numero.getNumero("Ingrese el tamaño del arreglo: ");
 
-        int[] A = new int[10];
+        Console.WriteLine($"Los multiplos de {num} son: ");
+        int[] A = new int[t];
 
-        int J = 0;
+        int j = 0;
+
+        for (int i = 1; i <= 10; i++)
+        {
+            A[i] = 0;
+        }
+
+        for (int i = 1; i < 10; i++)
+        {
+            if (num % i == 0)
+            {
+                A[j++] = i;
+            }
+        }
 
         foreach (int i in A)
         {

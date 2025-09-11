@@ -1,7 +1,7 @@
 public class Numero
 {
     int Num;
-    public static int getNumero()
+    public static int getNumero(string mensaje = "")
     {
         int Num;
 
