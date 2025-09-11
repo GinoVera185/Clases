@@ -1,0 +1,14 @@
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\bin\Debug\net9.0\ClaseUno.exe
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\bin\Debug\net9.0\ClaseUno.deps.json
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\bin\Debug\net9.0\ClaseUno.runtimeconfig.json
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\bin\Debug\net9.0\ClaseUno.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\bin\Debug\net9.0\ClaseUno.pdb
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.AssemblyInfoInputs.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.AssemblyInfo.cs
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.csproj.CoreCompileInputs.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\refint\ClaseUno.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.pdb
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ClaseUno.genruntimeconfig.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\ClaseUno\obj\Debug\net9.0\ref\ClaseUno.dll
