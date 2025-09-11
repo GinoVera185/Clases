@@ -1,10 +1,32 @@
-﻿// See https://aka.ms/new-console-template for more information
-string miVariable;
-int edad;
+﻿using System;
 
-Console.WriteLine("Ingrese su nombre: ");
-miVariable = Console.ReadLine();
-Console.WriteLine("Ingrese su edad: ");
-edad = int.Parse(Console.ReadLine());
+public class Program
+{
 
-Console.WriteLine($"Hola soy {miVariable}, tengo {edad} años");
+    public static void Main(String[] args)
+    {
+        int num;
+        num = Numero.getNumero();
+        Console.WriteLine($"Los mutiplos de {num} son:");
+
+        int[] A = new int[10];
+
+        int J = 0;
+
+        foreach (int i in A)
+        {
+            Console.WriteLine(i + " ");
+        }
+
+        /*
+        for (int i = 1; i <= num; i++)
+        {
+            if (num % i == 0)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        */
+
+    }
+}
