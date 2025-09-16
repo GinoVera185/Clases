@@ -5,7 +5,8 @@ public class Program
 
     public static void Main(String[] args)
     {
-        int num, t;
+        //Clase Semana 1
+        /*int num, t;
         num = Numero.getNumero("Ingrese un numero: ");
         t = Numero.getNumero("Ingrese el tamaño del arreglo: ");
 
@@ -41,6 +42,17 @@ public class Program
             }
         }
         */
+
+        //clase Semana 2
+        Potencia p = new Potencia();
+        Potencia p1 = new Potencia(2, 3);
+        p.print();
+        p1.print();
+        p.input();
+        p.print();
+        Console.WriteLine($"Evaluando {p1.evaluar()}");
+
+        Console.WriteLine($"Evaluando {Potencia.evaluar(3, 2)}");
 
     }
 }
