@@ -43,7 +43,8 @@ public class Program
         }
         */
 
-        //clase Semana 2
+        //clase Semana 2 16/09/2025
+        /*
         Potencia p = new Potencia();
         Potencia p1 = new Potencia(2, 3);
         p.print();
@@ -53,6 +54,15 @@ public class Program
         Console.WriteLine($"Evaluando {p1.evaluar()}");
 
         Console.WriteLine($"Evaluando {Potencia.evaluar(3, 2)}");
+        */
 
+        //clase Semana 2 18/09/2025
+        Arreglo A;
+
+        int n;
+        n = Numero.getNumero("Ingrese cantidad de numero: ");
+        A = new Arreglo(n);
+        A.input();
+        A.print();
     }
 }

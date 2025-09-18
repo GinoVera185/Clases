@@ -7,7 +7,7 @@ public class Numero
 
         do
         {
-            Console.WriteLine("Ingrese un numero:");
+            Console.WriteLine(mensaje);
 
         } while (!int.TryParse(Console.ReadLine(), out Num));
 
